@@ -1,1 +1,1 @@
-The Things to Do before building Models
+Preparing the Data set for building Models
